@@ -45,3 +45,8 @@ load {
 disk "/" {
         format = "%avail"
 }
+
+#bar {
+	#position top
+#}
+
