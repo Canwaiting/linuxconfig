@@ -100,4 +100,5 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+#alias idea = "~/tool/idea-IU-212.5284.40/bin/idea.sh"
 bindkey -v
