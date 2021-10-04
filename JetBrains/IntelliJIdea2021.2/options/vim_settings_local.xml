@@ -1,0 +1,147 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxTZWxlY3ROZXh0VGFiXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">dnNw</entry>
+        <entry encoding="base64">c3A=</entry>
+        <entry encoding="base64">cTE=</entry>
+        <entry encoding="base64">cSE=</entry>
+        <entry encoding="base64">c291cmNlIH4vLmlkZWFyYw==</entry>
+        <entry encoding="base64">c291cmNlIH4vLmlkZWF2aW1yYw==</entry>
+        <entry encoding="base64">YWN0aW9u</entry>
+        <entry encoding="base64">YWN0aW9ubGlzdA==</entry>
+        <entry encoding="base64">Ym4=</entry>
+        <entry encoding="base64">YjE=</entry>
+        <entry encoding="base64">YjI=</entry>
+        <entry encoding="base64">bHM=</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/javaweb/dailyPractice/day17/src/main/java/com/example/day17/HelloServlet.java" timestamp="1633325095265">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1633325067041">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1633328214586">
+        <mark key="'" line="25" column="36" />
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="31" column="12" />
+        <mark key="^" line="31" column="36" />
+        <mark key="." line="31" column="12" />
+      </file>
+      <file name="$USER_HOME$/javaweb/dailyPractice/day17/src/main/webapp/WEB-INF/jstl.jsp" timestamp="1633249915113">
+        <mark key="[" line="35" column="29" />
+        <mark key="]" line="35" column="29" />
+        <mark key="." line="35" column="29" />
+        <mark key="^" line="35" column="31" />
+      </file>
+      <file name="$USER_HOME$/javaweb/dailyPractice/day17/src/main/java/com/example/domain/User.java" timestamp="1633328221857">
+        <mark key="'" line="19" column="4" />
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="25" />
+        <mark key="^" line="12" column="25" />
+        <mark key="." line="12" column="24" />
+      </file>
+      <file name="$USER_HOME$/javaweb/dailyPractice/day17/src/main/java/com/example/day17/User.java" timestamp="1633249123681">
+        <mark key="'" line="25" column="21" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="32" column="22" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="/media/canwaiting/9af5b16a-131c-411f-825d-a6916e96a6b4/canwaiting/Downloads/day17_EL&amp;JSTL/代码/day17_el&amp;jstl/web/jstl/jstl_test.jsp" timestamp="1633256243100">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="63" />
+      </file>
+      <file name="$USER_HOME$/javaweb/dailyPractice/day17/src/main/webapp/Jstl.jsp" timestamp="1633322449482">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="25" column="21" />
+        <mark key="." line="25" column="20" />
+        <mark key="^" line="25" column="21" />
+      </file>
+      <file name="/" timestamp="1633157265850">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="4" column="0" filename="$USER_HOME$/javaweb/dailyPractice/day17/src/main/java/com/example/day17/User.java" />
+      <jump line="26" column="21" filename="$USER_HOME$/javaweb/dailyPractice/day17/src/main/java/com/example/day17/User.java" />
+      <jump line="16" column="7" filename="$USER_HOME$/javaweb/dailyPractice/day17/src/main/java/com/example/domain/User.java" />
+      <jump line="17" column="8" filename="$USER_HOME$/javaweb/dailyPractice/day17/src/main/java/com/example/domain/User.java" />
+      <jump line="19" column="4" filename="$USER_HOME$/javaweb/dailyPractice/day17/src/main/java/com/example/domain/User.java" />
+      <jump line="26" column="29" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="19" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="25" column="36" filename="$USER_HOME$/.ideavimrc" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cw==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">cw==</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">Y3M=</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxTZWxlY3ROZXh0VGFiXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">bWFwIDxsZWFkZXI+dGJwIDxBY3Rpb24+KFRvZ2dsZUxpbmVCcmVha3BvaW50KQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">bWFwIDxsZWFkZXI+bnQgPEFjdGlvbj4oU2VsZWN0TmV4dFRhYikKIiJtYXAgPGxlYWRlcj5ubyA8QWN0aW9uPihOZXh0T2NjdXJyZW5jZSkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">bWFwIDxsZWFkZXI+cHQgPEFjdGlvbj4oU2VsZWN0UHJldmlvdXNUYWIpCm1hcCA8bGVhZGVyPnB0IDxBY3Rpb24+KFNlbGVjdFByZXZpb3VzVGFiKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">bWFwIDxsZWFkZXI+cG8gPEFjdGlvbj4oU2VsZWN0UHJldmlvdXNUYWIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CVN0Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQnlj6/nnIvnnIsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IiIgTWFwIFxiIHRvIHRvZ2dsZSB0aGUgYnJlYWtwb2ludCBvbiB0aGUgY3VycmVudCBsaW5lCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IiJtYXAgXGIgPEFjdGlvbj4oVG9nZ2xlTGluZUJyZWFrcG9pbnQpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">bWFwIDxsZWFkZXI+ZnUgPEFjdGlvbj4oRmluZFVzYWdlcykKbWFwIDxsZWFkZXI+bnQgPEFjdGlvbj4oU2VsZWN0TmV4dFRhYikKbWFwIDxsZWFkZXI+cHQgPEFjdGlvbj4oU2VsZWN0UHJldmlvdXNUYWIpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">5Y+v55yL55yLCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxTZWxlY3ROZXh0VGFiXD4=</last-search>
+      <last-pattern encoding="base64">XDxTZWxlY3ROZXh0VGFiXD4=</last-pattern>
+      <last-dir encoding="base64">LTE=</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

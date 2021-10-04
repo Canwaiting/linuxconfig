@@ -1,0 +1,105 @@
+<application>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1yfRRb7d8NrmCfa9f2TjNupPI3F">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1yyibio6FUxVPelxEeEkZd7Uz2k">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1yyivl58ciKrnnD8fQxd9HAChpp">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1yyj5fLaeHHY3iDmweTLErizWVS">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1yyk4EkzDlwIJhO8VhLcwUpgYl1">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1yykzYcvm8cbmqWSyIAoCBWhTwB">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1yym8x78ANYa3vcptoepYQ3CaGZ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1yzOZ3ElABxRjy8m95rDEaRAMSt">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1yzUt186dGjk7kSE6FcW1TusI8U">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="action&#10;font&#10;fon&#10;fo&#10;fro" />
+    <property name="KEYMAP" value="action&#10;intention&#10;Alt" />
+    <property name="MarketplacePluginsSearchHistory" value="/tag:Keymap&#10;open i&#10;open in&#10;open&#10;openin" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="SettingsSearchHistory" value="intention actions&#10;tab&#10;action&#10;tool&#10;font" />
+    <property name="appcds.runOnSecondStart" value="IU-212.5284.40-3bc3896c8650a4718b2ee6a23fa52def4d3511cefe95a4e2e0cafeb45dbd1e58" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="eclipse.projects.detected" value="" />
+    <property name="evlsprt3.212" value="19" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/tool/apache-tomcat-9.0.53&#10;/media/canwaiting/9af5b16a-131c-411f-825d-a6916e96a6b4/canwaiting/apache-tomcat-9.0.53/apache-tomcat-9.0.53&#10;/media/canwaiting/9af5b16a-131c-411f-825d-a6916e96a6b4/canwaiting/apache-tomcat-9.0.53&#10;/home/canwaiting/tool/apache-tomcat-9.0.53-src&#10;/home/canwaiting/tool/apache-tomcat-9.0.53-src/bin&#10;/media/canwaiting/9af5b16a-131c-411f-825d-a6916e96a6b4/canwaiting/Downloads/day17_EL&amp;JSTL/代码&#10;/home/canwaiting/javaweb/dailyPractice/day17/src/main/webapp&#10;/home/canwaiting/javaweb/dailyPractice&#10;/home/canwaiting/tool/jdk-11.0.12&#10;/home/canwaiting/tool/apache-tomcat-9.0.53/apache-tomcat-9.0.53&#10;/home/canwaiting/tool/apache-tomcat-9.0.53/apache-tomcat-9.0.53/bin&#10;/media/canwaiting/9af5b16a-131c-411f-825d-a6916e96a6b4/canwaiting/javaweb/experiment2" />
+    <property name="file.gist.reindex.count" value="252" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.fileTypes.profiler.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="IU-212.5284.40" />
+    <property name="ide.updates.whats.new.shown.for" value="212" />
+    <property name="ideavim.statistics.timestamp" value="1633249969690" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="212-1.5.10-release-IJ5284.40" />
+    <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
+    <property name="javaee.appServer.lastUsedServer" value="Tomcat 9.0.53" />
+    <property name="javaee.appserver.selected" value="Tomcat 9.0.53" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$USER_HOME$/tool/apache-tomcat-9.0.53" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1633057149684" />
+    <property name="project.wizard.group" value="javaee" />
+    <property name="project.wizard.template" value="Web" />
+    <property name="registry.to.advanced.settings.migration.build" value="IU-212.5284.40" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.3.5" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="day17-history" project-path="$USER_HOME$/javaweb/dailyPractice/day17" last-access-time="1633231780652" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>
