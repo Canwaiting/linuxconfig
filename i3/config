@@ -194,9 +194,9 @@ bar {
 #
 # Please remove the following exec line:
 #######################################################################
-exec i3-confi-wizard
+exec i3-confi-wizar
 exec_always--no-startup-id fcitx 
-exec_always xmodmap -e 'clear Lock' -e 'keycode 0x42=Escape '
+exec_always--no-startup-id  xmodmap -e 'clear Lock' -e 'keycode 0x42=Escape '
 #monitor
 #xrandr --output HDMI-2 --auto --right-of eDP-1 
 #exec xrandr --output HDMI-2 --auto 
