@@ -6,7 +6,10 @@ set noerrorbells "no error beep
 syntax on "syntax highlight
 set encoding=utf-8 "chinese 
 set wildmenu
+set tabstop=4
+set expandtab
 
+"about the windows and the buffer move and spilt
 noremap <Space>sv <C-w>v
 noremap <Space>sh <C-w>s
 noremap <Space>wk <C-w>k
@@ -20,11 +23,38 @@ noremap <Space>h :bp<CR>
 
 
 call plug#begin('~/tool/plugged')
-Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
 Plug 'tpope/vim-surround'
 Plug 'tpope/vim-repeat'
 Plug 'svermeulen/vim-easyclip'
 Plug 'preservim/nerdcommenter'
+Plug 'dhruvasagar/vim-table-mode'
+Plug 'mzlogin/vim-markdown-toc'
+Plug 'SirVer/ultisnips'
 call plug#end()
 
 
+
+
+"the markdown keycode 
+autocmd Filetype markdown inoremap ,f <Esc>/<++><CR>:nohlsearch<CR>c4l
+autocmd Filetype markdown inoremap ,n ---<Enter><Enter>
+autocmd Filetype markdown inoremap ,b **** <++><Esc>F*hi
+autocmd Filetype markdown inoremap ,s ~~~~ <++><Esc>F~hi
+autocmd Filetype markdown inoremap ,i ** <++><Esc>F*i
+autocmd Filetype markdown inoremap ,d `` <++><Esc>F`i
+autocmd Filetype markdown inoremap ,c ```<Enter><++><Enter>```<Enter><Enter><++><Esc>4kA
+autocmd Filetype markdown inoremap ,h ====<Space><++><Esc>F=hi
+autocmd Filetype markdown inoremap ,p ![](<++>) <++><Esc>F[a
+autocmd Filetype markdown inoremap ,a [](<++>) <++><Esc>F[a
+autocmd Filetype markdown inoremap ,1 #<Space><Enter><++><Esc>kA
+autocmd Filetype markdown inoremap ,2 ##<Space><Enter><++><Esc>kA
+autocmd Filetype markdown inoremap ,3 ###<Space><Enter><++><Esc>kA
+autocmd Filetype markdown inoremap ,4 ####<Space><Enter><++><Esc>kA
+autocmd Filetype markdown inoremap ,l --------<Enter>
+autocmd Filetype markdown inoremap ,t <Esc>o```mermaid<Esc>ograph<Space>LR<Esc>o<++><Esc>o--><++><Esc>o```<Esc>/<++><CR>:nohlsearch<CR>NNc4l
+
+let g:UltiSnipsExpandTrigger="<tab>"
+let g:UltiSnipsJumpForwardTrigger="<c-b>"
+let g:UltiSnipsJumpBackwardTrigger="<c-z>"
+let g:UltiSnipsSnippetDirectories= ['~/.config/vim/Ultisnips/']
+"let g:UltiSnipsSnippetDirectories= ['~/.config/vim/Ultisnips/markdown.snippets']
