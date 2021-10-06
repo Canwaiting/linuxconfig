@@ -16,3 +16,15 @@ noremap <Space>wl <C-w>l
 
 noremap <Space>l :bn<CR>
 noremap <Space>h :bp<CR>
+
+
+
+call plug#begin('~/tool/plugged')
+Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
+Plug 'tpope/vim-surround'
+Plug 'tpope/vim-repeat'
+Plug 'svermeulen/vim-easyclip'
+Plug 'preservim/nerdcommenter'
+call plug#end()
+
+
