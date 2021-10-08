@@ -10,3 +10,17 @@ graph ${1:LR}
 --><++>
 \`\`\`
 endsnippet
+
+snippet flow 
+\`\`\`flow $1
+st=>start: <++> 
+e=>end: <++>
+op=>operation: <++>
+cond=>condition: <++>
+
+st->op->cond
+
+cond(<++>)-><++>
+cond(<++>)-><++>
+\`\`\`
+endsnippet

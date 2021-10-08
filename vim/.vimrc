@@ -7,8 +7,11 @@ syntax on "syntax highlight
 set encoding=utf-8 "chinese 
 set wildmenu
 set tabstop=4
+set shiftwidth=4
 set expandtab
 set scrolloff=5
+set ignorecase
+
 
 "about the windows and the buffer move and spilt
 noremap <Space>sv <C-w>v
@@ -29,6 +32,7 @@ Plug 'tpope/vim-repeat'
 Plug 'dhruvasagar/vim-table-mode'
 Plug 'mzlogin/vim-markdown-toc'
 Plug 'SirVer/ultisnips'
+Plug 'Yggdroot/LeaderF'
 call plug#end()
 
 
