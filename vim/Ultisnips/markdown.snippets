@@ -1,3 +1,8 @@
+global !p
+def upper(inp):
+	return inp.upper()
+endglobal
+
 snippet date
 ${2:${1:`date +%d`}.`date +%m`}.`date +%Y`
 endsnippet
@@ -6,21 +11,46 @@ endsnippet
 snippet mermaid
 \`\`\`mermaid
 graph ${1:LR}
-<++>
---><++>
+$2
+-->$3
 \`\`\`
 endsnippet
 
+
 snippet flow 
-\`\`\`flow $1
-st=>start: <++> 
-e=>end: <++>
-op=>operation: <++>
-cond=>condition: <++>
+\`\`\`flow 
+st=>start: $1 
+e=>end: $2 
+op=>operation: $3
+cond=>condition: $4
 
 st->op->cond
 
-cond(<++>)-><++>
-cond(<++>)-><++>
+cond(yes})->$5
+cond(no})->$6
 \`\`\`
+endsnippet 
+
+snippet h
+${1:Text}`!p snip.v=upper(t[1])`
 endsnippet
+
+
+snippet st
+st=>start: $1 
+endsnippet
+
+snippet e
+e=>end: $1 
+endsnippet
+
+snippet cond
+cond=>condition: $1
+endsnippet
+
+snippet op
+op=>operation: $1
+endsnippet
+
+
+

@@ -94,7 +94,8 @@ bindsym Mod1+t layout tabbed
 bindsym Mod1+s layout toggle split
 
 # toggle tiling / floating
-bindsym Mod1+Shift+space floating toggle
+#bindsym Mod1+Shift+space floating toggle
+bindsym Mod1+. floating toggle
 
 # change focus between tiling / floating windows
 bindsym Mod1+space focus mode_toggle
@@ -106,11 +107,13 @@ bindsym Mod1+space focus mode_toggle
 #bindsym Mod1+d focus child
 
 # move the currently focused window to the scratchpad
-bindsym Mod1+Shift+minus move scratchpad
+#bindsym Mod1+Shift+minus move scratchpad
+bindsym Mod1+, move scratchpad
 
 # Show the next scratchpad window or hide the focused scratchpad window.
 # If there are multiple scratchpad windows, this command cycles through them.
-bindsym Mod1+minus scratchpad show
+#bindsym Mod1+minus scratchpad show
+bindsym Mod1+/ scratchpad show
 
 # switch to workspace
 bindsym Mod1+1 workspace 1
@@ -201,5 +204,5 @@ exec_always--no-startup-id  xmodmap -e 'clear Lock' -e 'keycode 0x42=Escape '
 #xrandr --output HDMI-2 --auto --right-of eDP-1 
 #exec xrandr --output HDMI-2 --auto 
 exec_always xrandr --output eDP-1 --off 
-workspace 5 output eDP-1
+#workspace 5 output eDP-1
 #workspace 6 output eDP-1

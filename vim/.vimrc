@@ -58,6 +58,6 @@ autocmd Filetype markdown inoremap ,4 ####<Space><Enter><++><Esc>kA
 autocmd Filetype markdown inoremap ,l <Enter>*****<Enter>
 
 let g:UltiSnipsExpandTrigger="<tab>"
-let g:UltiSnipsJumpForwardTrigger="<c-b>"
-let g:UltiSnipsJumpBackwardTrigger="<c-z>"
+let g:UltiSnipsJumpForwardTrigger="<c-n>"
+let g:UltiSnipsJumpBackwardTrigger="<c-p>"
 let g:UltiSnipsSnippetDirectories= ['~/.config/vim/Ultisnips/']
