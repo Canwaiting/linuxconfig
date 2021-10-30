@@ -102,3 +102,15 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #alias idea = "~/tool/idea-IU-212.5284.40/bin/idea.sh"
 bindkey -v
+export JAVA_HOME=~/tool/jdk-11.0.12
+export JRE_HOME=${JAVA_HOME}/jre
+export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib
+export PATH=${JAVA_HOME}/bin:$PATH
+
+export JAVA_HOME=~/tool/jdk1.8.0_301
+export JRE_HOME=${JAVA_HOME}/jre
+export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib
+export PATH=${JAVA_HOME}/bin:$PATH:/usr/local/hbase/bin
+
+
+#export PATH=$PATH:/usr/local/hbase/bin
