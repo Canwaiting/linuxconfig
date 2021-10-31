@@ -35,6 +35,7 @@ Plug 'mzlogin/vim-markdown-toc'
 Plug 'SirVer/ultisnips'
 Plug 'Yggdroot/LeaderF'
 Plug 'Linfee/ultisnips-zh-doc'
+"Plug 'svermeulen/vim-easyclip'
 call plug#end()
 
 
