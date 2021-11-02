@@ -1,5 +1,6 @@
 "return" 2>&- || "exit"  "set this for no error after resource
-set relativenumber "the row number
+"set relativenumber "the row number
+set number
 set nocompatible "no vi compatibility
 set title "change the terminal title
 set noerrorbells "no error beep
@@ -11,8 +12,16 @@ set shiftwidth=4
 set expandtab
 set scrolloff=5
 set ignorecase
+"set paste
 
 colorscheme elflord
+
+
+"easy clip
+noremap <Leader>y "+y
+
+
+
 
 "about the windows and the buffer move and spilt
 noremap <Space>sv <C-w>v
@@ -28,14 +37,13 @@ noremap <Space>h :bp<CR>
 
 
 call plug#begin('~/tool/plugged')
-Plug 'tpope/vim-surround'
-Plug 'tpope/vim-repeat'
+"Plug 'tpope/vim-surround'
+"Plug 'tpope/vim-repeat'
 Plug 'dhruvasagar/vim-table-mode'
 Plug 'mzlogin/vim-markdown-toc'
 Plug 'SirVer/ultisnips'
-Plug 'Yggdroot/LeaderF'
+"Plug 'Yggdroot/LeaderF'
 Plug 'Linfee/ultisnips-zh-doc'
-"Plug 'svermeulen/vim-easyclip'
 call plug#end()
 
 
