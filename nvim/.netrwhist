@@ -1,3 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =6
 let g:netrw_dirhist_1='/home/canwaiting/.config/vim/Ultisnips'
+let g:netrw_dirhist_2='/home/canwaiting/note/web'
+let g:netrw_dirhist_3='/home/canwaiting/cpp/codes'
+let g:netrw_dirhist_4='/home/canwaiting/cpp/codes/9'
+let g:netrw_dirhist_5='/home/canwaiting/.config/vim/Ultisnips'
+let g:netrw_dirhist_6='/home/canwaiting/temp'
